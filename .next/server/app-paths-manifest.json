@@ -1,0 +1,8 @@
+{
+  "/manifest.webmanifest/route": "app/manifest.webmanifest/route.js",
+  "/[lang]/[screenid]/page": "app/[lang]/[screenid]/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/[lang]/search/page": "app/[lang]/search/page.js",
+  "/not-found": "app/not-found.js",
+  "/page": "app/page.js"
+}
